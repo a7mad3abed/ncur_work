@@ -3,7 +3,7 @@
 int main()
 {
 	initscr();
-	curs_set(1);
+	curs_set(2);
 	int c;
 
 
